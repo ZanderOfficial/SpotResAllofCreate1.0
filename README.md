@@ -6,6 +6,6 @@
 4. Select "Open Modding Folder",
 5. Then click on instances.
 6. Create a new folder named "Spotsyltucky".
-7. Download the .zip from this Repo.
+7. Download the .zip from this Repo. (Download is in the green "Code" dropdown on the right of your Github window.
 8. Disregard and delete, .gitattributes , LICENSE , README.
 9. Once you've inputted the all the files, excpet those defined above reopen curseforge and you should see a new Modpack folder.
