@@ -9,3 +9,4 @@
 7. Download the .zip from this Repo. (Download is in the green "Code" dropdown on the right of your Github window.
 8. Disregard and delete, .gitattributes , LICENSE , README.
 9. Once you've inputted the all the files, excpet those defined above reopen curseforge and you should see a new Modpack folder.
+(When you download the .zip you might get a folder within that, just put that folder as an instance if you get that in the download!)
